@@ -1,0 +1,357 @@
+{
+  "contacts": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "scarlett",
+        "last": "hicks"
+      },
+      "location": {
+        "street": "5777 victoria street",
+        "city": "preston11",
+        "state": "dyfed",
+        "postcode": "FS1O 7UQ"
+      },
+      "email": "scarlett.hicks@example.com",
+      "login": {
+        "username": "ticklishmeercat266",
+        "password": "paramedi",
+        "salt": "JygaXF22",
+        "md5": "e102a5a88d6eebbfe3f6d0f7817dddd2",
+        "sha1": "794eb935e81b7345aa9291c96b802204e50a4956",
+        "sha256": "6559538f3a52eb449a39bad9e2663f379725571cfea8a54873deb275590e0bdf"
+      },
+      "dob": "1988-06-01 11:34:43",
+      "registered": "2011-10-10 20:27:32",
+      "phone": "016974 47075",
+      "cell": "0793-632-175",
+      "id": 1,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/48.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "brooke",
+        "last": "franklin"
+      },
+      "location": {
+        "street": "4838 park lane",
+        "city": "mountmellick",
+        "state": "sligo",
+        "postcode": 53842
+      },
+      "email": "brooke.franklin@example.com",
+      "login": {
+        "username": "organicleopard177",
+        "password": "iloveyou2",
+        "salt": "sRHHKpbU",
+        "md5": "390d53f87bef71eabc982aef5ac3df38",
+        "sha1": "b99692c6f3d5ed63ea00bfc088bef986cef0e171",
+        "sha256": "00f8419110d9c53f7d2a6b1a837233e685f9e6735894ddf703f371be853596f8"
+      },
+      "dob": "1993-12-22 19:56:41",
+      "registered": "2012-09-02 03:26:11",
+      "phone": "051-656-9305",
+      "cell": "081-147-0750",
+      "id": 2,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/2.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "kübra",
+        "last": "düşenkalkar"
+      },
+      "location": {
+        "street": "3880 tunalı hilmi cd",
+        "city": "çankırı",
+        "state": "rize",
+        "postcode": 74299
+      },
+      "email": "kübra.düşenkalkar@example.com",
+      "login": {
+        "username": "purplegoose929",
+        "password": "hanson",
+        "salt": "evOlTV3j",
+        "md5": "ca1540931d311ddb79eb4235db7fa8aa",
+        "sha1": "df80e8f98034989141bd25431f475d3f6613d282",
+        "sha256": "40938972bdad4dc66abf8e8d075dc95b5b0c0949df0e02c81dd5581ed1fcdf86"
+      },
+      "dob": "1966-01-11 09:52:30",
+      "registered": "2011-01-03 16:20:50",
+      "phone": "(724)-827-8129",
+      "cell": "(144)-434-6099",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/23.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "arnaud",
+        "last": "pelletier"
+      },
+      "location": {
+        "street": "6991 peel st",
+        "city": "notre dame de lourdes",
+        "state": "yukon",
+        "postcode": 33096
+      },
+      "email": "arnaud.pelletier@example.com",
+      "login": {
+        "username": "beautifulpeacock275",
+        "password": "skeeter",
+        "salt": "tyMoEVYN",
+        "md5": "eb7df8174aad37295b2a91a3f2aa0ceb",
+        "sha1": "8026b78033f4598d7a766924d8cafc316e385478",
+        "sha256": "9be388f8294f549e4527e40d246fd3743d67ab167911143be2a756e860919ea5"
+      },
+      "dob": "1956-02-07 01:44:51",
+      "registered": "2013-01-14 16:16:16",
+      "phone": "918-018-8452",
+      "cell": "068-000-2978",
+      "id": 4,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/68.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "mika",
+        "last": "michel"
+      },
+      "location": {
+        "street": "9606 mühlweg",
+        "city": "offenbach",
+        "state": "rheinland-pfalz",
+        "postcode": 35850
+      },
+      "email": "mika.michel@example.com",
+      "login": {
+        "username": "beautifulgoose163",
+        "password": "1996",
+        "salt": "HevbtT1z",
+        "md5": "bd7c18d67e9195578fb0c83f9aaad56d",
+        "sha1": "027458036d3ccaf1001fb9e3261ac3910eaf38cd",
+        "sha256": "91144ea785d746cfaab0a001967a6b4dab7a546810900d382ce4a4f4b8f5460d"
+      },
+      "dob": "1966-03-15 14:17:28",
+      "registered": "2010-09-26 22:49:58",
+      "phone": "0071-5516067",
+      "cell": "0174-1224922",
+      "id": 5,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/12.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "anne",
+        "last": "daniels"
+      },
+      "location": {
+        "street": "8376 hunters creek dr",
+        "city": "athens",
+        "state": "indiana",
+        "postcode": 65734
+      },
+      "email": "anne.daniels@example.com",
+      "login": {
+        "username": "redgorilla677",
+        "password": "blackbir",
+        "salt": "TS4Bc6qp",
+        "md5": "9b654be25fa0b9754929c2c315bbea7a",
+        "sha1": "dd3cbef3eeb204a97439214bb15546aa9fb3202a",
+        "sha256": "9503747837b32f332b8f630e0ea7e062a48b5ef8322a2da7976c2c372f1bb4ab"
+      },
+      "dob": "1954-07-10 10:11:52",
+      "registered": "2014-10-21 14:20:41",
+      "phone": "(988)-085-2285",
+      "cell": "(493)-817-8365",
+      "id": 6,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "isaac",
+        "last": "roux"
+      },
+      "location": {
+        "street": "2466 rue du cardinal-gerlier",
+        "city": "amiens",
+        "state": "finistère",
+        "postcode": 64783
+      },
+      "email": "isaac.roux@example.com",
+      "login": {
+        "username": "blueswan258",
+        "password": "suckme",
+        "salt": "Od8PIc8z",
+        "md5": "ce3c5f882a9c0195f3295ff01517a539",
+        "sha1": "4058608a610840ab6f63d1b98ef30d86192aaea8",
+        "sha256": "d6b0b2d1729f3e41e90304cc8f4559fd829e03d8f6df990c64e1510ab032125c"
+      },
+      "dob": "1974-11-26 16:57:16",
+      "registered": "2008-03-07 18:30:54",
+      "phone": "05-27-98-12-37",
+      "cell": "06-96-55-50-92",
+      "id": 7,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/36.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "eliza",
+        "last": "boyd"
+      },
+      "location": {
+        "street": "1079 the drive",
+        "city": "truro",
+        "state": "county tyrone",
+        "postcode": "H41 1NZ"
+      },
+      "email": "eliza.boyd@example.com",
+      "login": {
+        "username": "bigleopard513",
+        "password": "stick",
+        "salt": "xBXIRrQV",
+        "md5": "0d1e2617c8502153bed4d31a2a0ba5ef",
+        "sha1": "05100a0381392f88509d5401a1d8afc7551c379c",
+        "sha256": "0e8ad1558547bc522157453fba7395fb0a31e34523ab0fcaf86701055dbfd3a5"
+      },
+      "dob": "1950-07-17 12:31:35",
+      "registered": "2014-06-19 21:33:58",
+      "phone": "01988 111240",
+      "cell": "0784-475-628",
+      "id": 8,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/16.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "beverly",
+        "last": "reyes"
+      },
+      "location": {
+        "street": "1380 wycliff ave",
+        "city": "memphis",
+        "state": "pennsylvania",
+        "postcode": 43586
+      },
+      "email": "beverly.reyes@example.com",
+      "login": {
+        "username": "beautifulduck753",
+        "password": "brandon1",
+        "salt": "Ry29Pn6k",
+        "md5": "0d0d2d477f0d84c4b41abe27145c7681",
+        "sha1": "4373d9dbecd56a9e6bcddca3ef536b4e5cbb7a40",
+        "sha256": "e4224535767ceaa7bcec36c1b92e009a7e1e766c24c5c477f2d8c088848aa3bb"
+      },
+      "dob": "1983-04-02 19:20:02",
+      "registered": "2007-01-02 13:26:21",
+      "phone": "(500)-140-0798",
+      "cell": "(952)-946-8862",
+      "id": 9,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "jayden",
+        "last": "kumar"
+      },
+      "location": {
+        "street": "7744 kennedy road",
+        "city": "dunedin",
+        "state": "auckland",
+        "postcode": 65632
+      },
+      "email": "jayden.kumar@example.com",
+      "login": {
+        "username": "silverswan876",
+        "password": "badboy",
+        "salt": "naRjExA0",
+        "md5": "ce19d84685ed8c45fa2403db5821d112",
+        "sha1": "b340e2a5c843ccabdeccb91cbbcd9bfe5ba1f7dd",
+        "sha256": "d9c5d7ad2caeada1a1c678520357181797efaed1c86f1e28cfb1fae23a6f8f96"
+      },
+      "dob": "1963-11-19 22:56:05",
+      "registered": "2013-11-12 23:16:45",
+      "phone": "(378)-075-1663",
+      "cell": "(810)-975-7228",
+      "id": 10,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+      },
+      "nat": "NZ"
+    },
+    {
+      "id": "18:18:20 GMT+0300 (Финляндия (лето))",
+      "name": {
+        "first": "Test",
+        "last": "New"
+      },
+      "location": {
+        "street": "Gaydara",
+        "city": "Kyiv",
+        "state": "Ukraine"
+      },
+      "cell": "04030430430"
+    }
+  ]
+}
